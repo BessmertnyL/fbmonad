@@ -1,5 +1,9 @@
-# Fbmonad
+# fbmonad
 TUI FictionBook reader written on Haskell
+
+# About IHP
+
+To be filled
 
 ## Recent Releases
 
