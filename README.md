@@ -1,9 +1,9 @@
 # fbmonad
-TUI FictionBook reader written on Haskell
+TUI FictionBook reader written on Haskell.
 
 # About fbmonad
 
-To be filled
+To be filled.
 
 ## Recent Releases
 
