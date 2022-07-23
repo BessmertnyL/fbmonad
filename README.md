@@ -1,7 +1,7 @@
 # fbmonad
 TUI FictionBook reader written on Haskell
 
-# About IHP
+# About fbmonad
 
 To be filled
 
