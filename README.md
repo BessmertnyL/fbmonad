@@ -1,6 +1,10 @@
 # Fbmonad
 TUI FictionBook reader written on Haskell
 
+## Recent Releases
+
+* `v1.0.0`, 2022-02-07: coming soon!
+
 Contributing
 ------------
 
